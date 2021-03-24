@@ -1,0 +1,21 @@
+{
+  "type": "panel",
+  "name": "Draw Count v2",
+  "id": "id-draw-count-v2",
+  "dataFormats": ["table"],
+  "info": {
+    "description": "Draw Count v2",
+    "author": {
+      "name": "Nam Le"
+    },
+    "keywords": [],
+    "screenshots": [],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "plugins": []
+  }
+}
